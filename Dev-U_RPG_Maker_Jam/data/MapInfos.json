@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MainHall","order":1,"parentId":0,"scrollX":976.5,"scrollY":625.5},
-{"id":2,"expanded":false,"name":"Room1","order":2,"parentId":0,"scrollX":988.5,"scrollY":586.5}
+{"id":1,"expanded":true,"name":"MainHall","order":1,"parentId":0,"scrollX":945,"scrollY":763},
+{"id":2,"expanded":false,"name":"Room1","order":4,"parentId":0,"scrollX":542,"scrollY":305},
+{"id":3,"expanded":true,"name":"Master Bedroom","order":2,"parentId":1,"scrollX":534,"scrollY":305},
+{"id":4,"expanded":true,"name":"Ligação quarto a quarto","order":3,"parentId":3,"scrollX":534,"scrollY":367}
 ]
