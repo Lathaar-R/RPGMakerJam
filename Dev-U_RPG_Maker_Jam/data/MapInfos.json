@@ -6,4 +6,5 @@ null,
 {"id":4,"expanded":true,"name":"Ligação quarto a quarto","order":3,"parentId":1,"scrollX":790.8,"scrollY":469.2},
 {"id":5,"expanded":false,"name":"Basement","order":4,"parentId":4,"scrollX":790.8,"scrollY":469.2},
 {"id":6,"expanded":true,"name":"sala","order":5,"parentId":1,"scrollX":790.8,"scrollY":469.2}
+
 ]
